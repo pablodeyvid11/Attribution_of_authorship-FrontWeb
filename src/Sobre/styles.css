@@ -1,0 +1,70 @@
+body
+{
+    background-image: url(./fundo.png);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+.container-all{
+
+    padding-top: 100px;
+    display: block;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+h1,p
+{
+    color:#18191F;
+}
+
+img
+{
+    margin: 130px 0;
+}
+.container-all h1
+{
+    font-size: 48px;
+    margin-bottom: 0;
+}
+.colum
+{
+    width: 100%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.z
+{
+    margin-left: 5px;
+    margin-bottom: -20px;
+}
+.container
+{
+    margin: 15px;
+}
+
+.container h1
+{
+    font-size: 24px;
+}
+.card-text
+{
+   position: absolute;
+   text-align: center;
+   width: 380px;
+   height: 225px;
+   margin-left: 5px;
+}
+
+.info-sobre
+{
+    width: 360px; 
+}
+.info-sobre h1
+{
+margin-bottom: -10px;
+}

@@ -1,0 +1,92 @@
+.container-all{
+
+}
+
+.roxo
+{
+    width: 100%;
+    height: 280px;
+    background: #8C30F5;
+    margin-bottom: -60px;
+}
+
+.info
+{
+    margin-top: -130px;
+    display: block;
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    background: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 3px 10px 10px rgba(136, 136, 136, 0.308);
+}
+.info-aux
+{
+    display: inline-flex;
+    width: 100%;
+}
+
+.info-container
+{
+    width: 100%;
+    text-align: center;
+}
+
+.info-container h1
+{
+    color: #8C30F5;
+    font-size: 48px;
+    margin: 0;
+}
+.info-container p
+{
+    padding-bottom: 20px;
+}
+
+.info-icon
+{
+    margin: 25px 0 10px 0;
+}
+
+.buttons
+{
+    display: block;
+    width: 70%;
+
+    margin: 100px auto;
+}
+
+.buttons-aux
+{
+    width: 100%;
+    display: inline-flex;
+    
+}
+
+.buttons-aux a
+{
+    padding: 60px 0;
+    width: 100%;
+    text-align: center;
+    margin: 0 28px;
+    color: #18191F;
+    border-top: solid 10px #b58be4;
+    box-shadow:  -6px -20px 35px #ffffff, -6px -10px 15px #ffffff, -20px 0px 30px #ffffff, 6px 20px 25px rgba(0,0,0,0.2);
+    transition: 0.2s;
+
+}
+
+.buttons-aux a:hover
+{
+    box-shadow:  -6px -20px 35px #ffffff, -6px -10px 15px #ffffff, -20px 0px 30px #ffffff, 6px 10px 15px rgba(0, 0, 0, 0.568);
+    border-top: solid 10px  #8C30F5;
+    transition: 0.2s;
+}
+
+
+
+.buttons-aux a h2{
+    font-size: 24px;
+}
+

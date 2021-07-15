@@ -1,0 +1,41 @@
+nav {
+    position: absolute;
+    top: 1;
+    width: 100%;
+    display: inline-flex;
+    padding: 12px 0;
+    background: white;
+}
+.nav-textos
+{
+    margin-top: 4px;
+    margin-left: 111px;
+}
+.nav-textos a
+{
+    font-size: 14px;
+    margin: 0 10px;
+    color: #18191F;
+}
+
+.nav-textos a:hover
+{
+    color:#8C30F5;
+}
+
+.nav-logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-icons
+{
+    margin-top: 4px;
+    margin-right: 115px;
+}
+
+.nav-icons a
+{
+    margin: 0 10px;
+}

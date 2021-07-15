@@ -1,0 +1,81 @@
+.main-footer {
+    /* Footer / Mini / 7 */
+    position: absolute ;
+    bottom: 1;
+    width: 100%;
+    align-items: center;
+    background: #0B0D17;
+    padding-bottom: 24px;
+    padding-top: 24px;
+    margin: 0;
+}
+
+.Logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div-links {
+    margin-top: 30px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 46px;
+}
+
+.div-links a {
+    font-size: 14px;
+    line-height: 26px;
+    margin: 0px 7px;
+    color: white;
+}
+
+.div-links a:hover
+{
+    color: #65438A;
+}
+
+hr {
+    color: #FFFFFF;
+    opacity: 0.2;
+    width: 60%;
+}
+
+.last-links {
+    display: block;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+}
+
+.last-links-PORRA {
+    display: inline-flex;
+    
+}
+.direitos-reservados {
+    color: #D9DBE1;
+    font-size: 13px;
+    height: 30px;
+    width: 400px;
+    display: block;
+
+}
+
+.social{
+    display: block;
+    position: absolute;
+    right: 19.6%;
+}
+
+.social-aux
+{
+    display: inline-flex;
+}
+
+.social-aux a
+{
+    margin: 0px 8px;
+}
+
+
