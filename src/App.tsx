@@ -1,22 +1,15 @@
 import React from 'react';
 import './App.css';
+import  Router  from './routes';
 import Navbar from './Nav'
 import Footer from './Footer';
-import Startpage from './Starpage';
-import Sobre from './Sobre';
-import Comece from './Comece';
-import Atribuicao from './Atribuicao';
-import Treino from './Treino';
-
 
 function App() {
   return (
     <>
-
-     <Navbar></Navbar>
-      <Treino></Treino>
-     <Footer></Footer>
-
+      <Navbar></Navbar>
+      <Router></Router>
+      <Footer></Footer>
     </>
   );
 }
